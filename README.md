@@ -204,9 +204,8 @@ Protótipo da aplicação **MindDoc Analyzer**, elaborado no Figma para apresent
 
 ## 📅 Entregas por Sprint
 
-| **Etapas** | **Principais entregas** |
-| :--- | :--- |
-| **Sprint I** | Extração automática de informações, interfaces de cadastro e exibição dos dados e estrutura inicial de controle de acesso. |
-| **Sprint II** | Persistência em banco de dados, edição e exclusão de registros e execução local da aplicação. |
-| **Sprint III** | Consulta e filtragem de relatórios, seleção de modelos, autenticação e melhorias na interface. |
-| **Sprint IV** | Testes, correção de falhas, otimização e documentação de uso. |
+| Eventos | Datas |
+| ------ | :----: |
+| 💡 **Kick-off** | 29/08/2024 |
+| 💻 **Desenvolvimento** | 09/09/24 – 01/12/24 |
+| 🎯 **Feira de soluções** | 12/12/2024 |
